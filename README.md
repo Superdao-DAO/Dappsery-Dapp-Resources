@@ -5,7 +5,7 @@ Dappsery is a decentralized self serve dapp ad platform with a triple entry frau
 
 ### Table of Contents
 
-* [Dappsery Hub](#https://github.com/Dappsery)
-* [Website](#http://www.Dappsery.io)
+* [Dappsery Hub](https://github.com/Dappsery)
+* [Website](http://www.Dappsery.io)
 * [Demo](https://www.youtube.com/watch?v=bjsPetoHSQE)
-* [Wiki](https://github.com/Dappsery/Dappsery.github.io/wiki
+* [Wiki](https://github.com/Dappsery/Dappsery.github.io/wiki)
